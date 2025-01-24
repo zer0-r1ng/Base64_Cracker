@@ -1,4 +1,4 @@
-![Base64Cracker](D:\Project\BaseCracker\Base64Cracker.png)
+![Base64Cracker](Base64Cracker.png)
 
 [中文文档README📖](README_ZH.md) 
 
@@ -6,7 +6,7 @@
 
 作为一名CTFer，我们在做Misc方向的题目时会遇到奇奇怪怪的Base编码题，例如我之前做过的一道需要解18次的题目，那这时候我们不想重复CV工程这么多次的话我们的最优解就是用脚本，因此有了此工具
 
-![example](D:\Project\BaseCracker\example.png)
+![example](example.png)
 
 如图像这样密密麻麻的字符串对于我这种CTF小白那看得头皮发麻，后续这个工具我也会进行不断完善，例如支持Base家族的其他编码
 
@@ -36,10 +36,10 @@ re
 python base64_cracker.py
 ```
 
-![example_2](D:\Project\BaseCracker\example_2.png)
+![example_2](example_2.png)
 
 然后将待解码字符串粘贴进去即可
 
-![example_3](D:\Project\BaseCracker\example_3.png)
+![example_3](example_3.png)
 
 不知道该写什么了
