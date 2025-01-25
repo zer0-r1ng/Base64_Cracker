@@ -6,7 +6,7 @@
 
 ## Overview
 
-As a CTFer, we may come across strings that go through many layers of Base encoding.And if we decode it manually, it will be very troublesome.So this is a tool to decode multi-layer Base64 decoding.
+As a CTFer, we may come across strings that go through many layers of Base encoding.And if we decode it manually, it will be very troublesome.So this is a tool to decode multi-layer Base64 encoding strings.
 
 ![example](example.png)
 
@@ -44,4 +44,4 @@ Then input the strings to decode.
 
 ###### This tool is will being updated constantly.
 
-###### Thanks to you star~
+###### Thanks to your star~
